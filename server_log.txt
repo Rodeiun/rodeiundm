@@ -1,0 +1,499 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:57:56] filterscripts = ""  (string)
+[16:57:56] 
+[16:57:56] Server Plugins
+[16:57:56] --------------
+[16:57:56]  Loading plugin: sampac.dll
+[16:57:57] [SAMP_AC_V2] SA-MP Anti-Cheat v2.82 has loaded successfully.
+[16:57:57]   Loaded.
+[16:57:57]  Loaded 1 plugins.
+
+[16:57:58] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[16:57:58] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[16:57:58] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[16:57:58] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[16:57:58] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[16:57:58] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[16:57:58] I couldn't load any gamemode scripts. Please verify your server.cfg
+[16:57:58] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:58:12] filterscripts = ""  (string)
+[16:58:12] 
+[16:58:12] Server Plugins
+[16:58:12] --------------
+[16:58:12]  Loading plugin: sampac.dll
+[16:58:13] [SAMP_AC_V2] SA-MP Anti-Cheat v2.82 has loaded successfully.
+[16:58:13]   Loaded.
+[16:58:13]  Loaded 1 plugins.
+
+[16:58:13] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[16:58:13] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[16:58:13] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[16:58:13] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[16:58:13] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[16:58:13] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[16:58:13] 
+[16:58:13] Filterscripts
+[16:58:13] ---------------
+[16:58:13]   Loaded 0 filterscripts.
+
+[16:58:13] [SAMP_AC_V2] checking for an update...
+[16:58:13] [SAMP_AC_V2] _____________________________________________________________
+[16:58:13] [SAMP_AC_V2] 
+[16:58:13] [SAMP_AC_V2] ** Already up to date!
+[16:58:13] [SAMP_AC_V2] 
+[16:58:13] [SAMP_AC_V2] _____________________________________________________________
+[16:58:13] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[16:58:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:58:49] filterscripts = ""  (string)
+[16:58:49] 
+[16:58:49] Server Plugins
+[16:58:49] --------------
+[16:58:49]  Loading plugin: sampac.dll
+[16:58:49] [SAMP_AC_V2] SA-MP Anti-Cheat v2.82 has loaded successfully.
+[16:58:49]   Loaded.
+[16:58:49]  Loaded 1 plugins.
+
+[16:58:49] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[16:58:49] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[16:58:49] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[16:58:49] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[16:58:49] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[16:58:49] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[16:58:49] 
+[16:58:49] Filterscripts
+[16:58:49] ---------------
+[16:58:49]   Loaded 0 filterscripts.
+
+[16:58:49] [SAMP_AC_V2] checking for an update...
+[16:58:50] [SAMP_AC_V2] _____________________________________________________________
+[16:58:50] [SAMP_AC_V2] 
+[16:58:50] [SAMP_AC_V2] ** Already up to date!
+[16:58:50] [SAMP_AC_V2] 
+[16:58:50] [SAMP_AC_V2] _____________________________________________________________
+[16:58:50] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[16:58:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:01:50] filterscripts = ""  (string)
+[17:01:50] 
+[17:01:50] Server Plugins
+[17:01:50] --------------
+[17:01:50]  Loading plugin: crashdetect
+[17:01:50]   CrashDetect plugin 4.19.4
+[17:01:50]   Loaded.
+[17:01:50]  Loading plugin: mysql
+[17:01:50]   Failed.
+[17:01:50]  Loading plugin: pawn-memory
+[17:01:50] ========================
+[17:01:50] = Memory access plugin =
+[17:01:50] =       Made by BigETI =
+[17:01:50] = Loaded!              =
+[17:01:50] ========================
+[17:01:50]   Loaded.
+[17:01:50]  Loading plugin: SAMPSON
+[17:01:50] ============== SAMPSON v0.1.1 by King_Hual loaded ==============
+[17:01:50]   Loaded.
+[17:01:50]  Loading plugin: SKY
+[17:01:50]   Loaded.
+[17:01:50]  Loading plugin: sscanf
+[17:01:50] 
+
+[17:01:50]  ===============================
+
+[17:01:50]       sscanf plugin loaded.     
+
+[17:01:50]          Version:  2.8.2        
+
+[17:01:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:01:50]  ===============================
+
+[17:01:50]   Loaded.
+[17:01:50]  Loading plugin: streamer
+[17:01:50] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:01:50]   Loaded.
+[17:01:50]  Loaded 6 plugins.
+
+[17:01:50] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:01:50] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:01:50] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:01:50] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:01:50] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:01:50] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:01:50] 
+[17:01:50] Filterscripts
+[17:01:50] ---------------
+[17:01:50]   Loaded 0 filterscripts.
+
+[17:01:50] [debug] Run time error 19: "File or function is not found"
+[17:01:50] [debug]  PR_Init
+[17:01:50] [debug]  FCNPC_GetPluginVersion
+[17:01:50] [debug]  GetPlayerSurfingOffsets
+[17:01:50] [debug] Run time error 19: "File or function is not found"
+[17:01:50] [debug]  PR_Init
+[17:01:50] [debug]  FCNPC_GetPluginVersion
+[17:01:50] [debug]  GetPlayerSurfingOffsets
+[17:01:50] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:01:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:02:11] filterscripts = ""  (string)
+[17:02:11] 
+[17:02:11] Server Plugins
+[17:02:11] --------------
+[17:02:11]  Loading plugin: crashdetect
+[17:02:11]   CrashDetect plugin 4.19.4
+[17:02:11]   Loaded.
+[17:02:11]  Loading plugin: mysql
+[17:02:11]   Failed.
+[17:02:11]  Loading plugin: pawn-memory
+[17:02:11] ========================
+[17:02:11] = Memory access plugin =
+[17:02:11] =       Made by BigETI =
+[17:02:11] = Loaded!              =
+[17:02:11] ========================
+[17:02:11]   Loaded.
+[17:02:11]  Loading plugin: SKY
+[17:02:11]   Loaded.
+[17:02:11]  Loading plugin: sscanf
+[17:02:11] 
+
+[17:02:11]  ===============================
+
+[17:02:11]       sscanf plugin loaded.     
+
+[17:02:11]          Version:  2.8.2        
+
+[17:02:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:02:11]  ===============================
+
+[17:02:11]   Loaded.
+[17:02:11]  Loading plugin: streamer
+[17:02:11] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:02:11]   Loaded.
+[17:02:11]  Loaded 5 plugins.
+
+[17:02:11] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:02:11] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:02:11] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:02:11] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:02:11] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:02:11] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:02:11] 
+[17:02:11] Filterscripts
+[17:02:11] ---------------
+[17:02:11]   Loaded 0 filterscripts.
+
+[17:02:11] [debug] Run time error 19: "File or function is not found"
+[17:02:11] [debug]  json_parse_string
+[17:02:11] [debug]  json_get_bool
+[17:02:11] [debug]  json_get_string
+[17:02:11] [debug]  json_get_int
+[17:02:11] [debug]  json_close
+[17:02:11] [debug]  json_get_array
+[17:02:11] [debug]  json_array_count
+[17:02:11] [debug]  json_array_at
+[17:02:11] [debug]  PR_Init
+[17:02:11] [debug]  FCNPC_GetPluginVersion
+[17:02:11] [debug]  GetPlayerSurfingOffsets
+[17:02:11] [debug] Run time error 19: "File or function is not found"
+[17:02:11] [debug]  json_parse_string
+[17:02:11] [debug]  json_get_bool
+[17:02:11] [debug]  json_get_string
+[17:02:11] [debug]  json_get_int
+[17:02:11] [debug]  json_close
+[17:02:11] [debug]  json_get_array
+[17:02:11] [debug]  json_array_count
+[17:02:11] [debug]  json_array_at
+[17:02:11] [debug]  PR_Init
+[17:02:11] [debug]  FCNPC_GetPluginVersion
+[17:02:11] [debug]  GetPlayerSurfingOffsets
+[17:02:11] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:02:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:02:46] filterscripts = ""  (string)
+[17:02:46] 
+[17:02:46] Server Plugins
+[17:02:46] --------------
+[17:02:46]  Loading plugin: sscanf
+[17:02:46] 
+
+[17:02:46]  ===============================
+
+[17:02:46]       sscanf plugin loaded.     
+
+[17:02:46]          Version:  2.8.2        
+
+[17:02:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:02:46]  ===============================
+
+[17:02:46]   Loaded.
+[17:02:46]  Loading plugin: streamer
+[17:02:46] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:02:46]   Loaded.
+[17:02:46]  Loaded 2 plugins.
+
+[17:02:46] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:02:46] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:02:46] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:02:46] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:02:46] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:02:46] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:02:46] 
+[17:02:46] Filterscripts
+[17:02:46] ---------------
+[17:02:46]   Loaded 0 filterscripts.
+
+[17:02:46] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:02:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:04:19] filterscripts = ""  (string)
+[17:04:19] 
+[17:04:19] Server Plugins
+[17:04:19] --------------
+[17:04:19]  Loading plugin: sscanf
+[17:04:19] 
+
+[17:04:19]  ===============================
+
+[17:04:19]       sscanf plugin loaded.     
+
+[17:04:19]          Version:  2.8.2        
+
+[17:04:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:04:19]  ===============================
+
+[17:04:19]   Loaded.
+[17:04:19]  Loading plugin: streamer
+[17:04:19] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:04:19]   Loaded.
+[17:04:19]  Loaded 2 plugins.
+
+[17:04:19] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:04:19] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:04:19] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:04:19] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:04:19] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:04:19] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:04:19] 
+[17:04:19] Filterscripts
+[17:04:19] ---------------
+[17:04:19]   Loaded 0 filterscripts.
+
+[17:04:19] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:04:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:14:33] filterscripts = ""  (string)
+[17:14:33] 
+[17:14:33] Server Plugins
+[17:14:33] --------------
+[17:14:33]  Loading plugin: sscanf
+[17:14:33] 
+
+[17:14:33]  ===============================
+
+[17:14:33]       sscanf plugin loaded.     
+
+[17:14:33]          Version:  2.8.2        
+
+[17:14:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:14:33]  ===============================
+
+[17:14:33]   Loaded.
+[17:14:33]  Loading plugin: streamer
+[17:14:33] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:14:33]   Loaded.
+[17:14:33]  Loaded 2 plugins.
+
+[17:14:33] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:14:33] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:14:33] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:14:33] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:14:33] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:14:33] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:14:33] 
+[17:14:33] Filterscripts
+[17:14:33] ---------------
+[17:14:33]   Loaded 0 filterscripts.
+
+[17:14:33] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:14:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[16:41:08] filterscripts = ""  (string)
+[16:41:08] 
+[16:41:08] Server Plugins
+[16:41:08] --------------
+[16:41:08]  Loading plugin: sscanf
+[16:41:08] 
+
+[16:41:08]  ===============================
+
+[16:41:08]       sscanf plugin loaded.     
+
+[16:41:08]          Version:  2.8.2        
+
+[16:41:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:41:08]  ===============================
+
+[16:41:08]   Loaded.
+[16:41:08]  Loading plugin: streamer
+[16:41:08] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[16:41:08]   Loaded.
+[16:41:08]  Loaded 2 plugins.
+
+[16:41:08] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[16:41:08] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[16:41:08] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[16:41:08] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[16:41:08] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[16:41:08] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[16:41:08] 
+[16:41:08] Filterscripts
+[16:41:08] ---------------
+[16:41:08]   Loaded 0 filterscripts.
+
+[16:41:08] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[16:41:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[17:16:37] filterscripts = ""  (string)
+[17:16:37] 
+[17:16:37] Server Plugins
+[17:16:37] --------------
+[17:16:37]  Loading plugin: sscanf
+[17:16:37] 
+
+[17:16:37]  ===============================
+
+[17:16:37]       sscanf plugin loaded.     
+
+[17:16:37]          Version:  2.8.2        
+
+[17:16:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:16:37]  ===============================
+
+[17:16:37]   Loaded.
+[17:16:37]  Loading plugin: streamer
+[17:16:37] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:16:37]   Loaded.
+[17:16:37]  Loaded 2 plugins.
+
+[17:16:37] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[17:16:37] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[17:16:37] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[17:16:37] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[17:16:37] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[17:16:37] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[17:16:37] 
+[17:16:37] Filterscripts
+[17:16:37] ---------------
+[17:16:37]   Loaded 0 filterscripts.
+
+[17:16:37] Script[gamemodes/rodeiun.amx]: Run time error 19: "File or function is not found"
+[17:16:37] Number of vehicle models: 0
